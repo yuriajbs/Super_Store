@@ -82,6 +82,6 @@ O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exib
 
 ## 7. Para o futuro
 
-1.   Desenvolver novas métricas.
-2.  Criar novos filtros.
+1.   Desenvolver novas métricas;
+2.  Criar novos filtros;
 3.  Adicionar novas visões de negócio.
