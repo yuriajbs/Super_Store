@@ -8,7 +8,23 @@ tendências, reduzir custos operacionais e entender o comportamento do consumido
 
 O modelo de negócio de um supermercado baseia-se na venda em alto volume de produtos, principalmente, essenciais (alimentação, higiene e limpeza) com margens de lucro unitárias baixas (geralmente entre 3% e 6%). 
 Dessa forma, há um modelo comercial tradional (B2C) no qual existe uma relação direta entre a empresa e o consumidor final.
-Para um diagnóstico preciso da situação das vendas da empresa, o time de gestão definiu três aréas principais: 
+Para um diagnóstico preciso da situação das vendas da empresa, o time de gestão definiu três aréas principais com suas respectivas métricas: 
+
+Retenção de Clientes (Análise "Cohort" - Janela de 1 ano) :
+      
+      1. Qual o mês do ano de 2014 e de 2015 apresentou maior retenção;
+      2. Qual mês apresentou maior retenção média em 2014 e em 2015;
+      3. Qual mês apresentou pior retenção média em 2014 e em 2015;
+      4. Qual foi a retenção média de cada ano.
+
+Segmentação de Clientes (Análise RFM):
+
+      1. Qual a porcentagem de clientes representa cada segmento;
+      2. Em que segmento está a maior faixa de receita;
+      3. Qual faixa de clientes é necessária atenção;
+      4. Quais são as categorias de clientes menos rentáveis.
+
+
 
 Retenção de Clientes:
 
@@ -16,8 +32,11 @@ Mediante uma análise do tipo "cohort" foi possível acompanhar o grau de reten�
 
 Segmentação de Clientes:
 
-Atráves da estratificação dos consumidores, mediante definição do número de itens pedidos, a recência das compras e valor do carrinho, foi possível identificar subgrupos com características, necessidades ou comportamentos em comum. Assim, foi possível conhecer de forma mais aprofundada os hábitos de compra da base de dados e, com isso, direcionar estratégias de marketing, otimizar recursos e personalizar ofertas, garantindo que o cliente certo receba a mensagem certa no momento ideal. 
+Atráves da estratificação dos consumidores, mediante definição do número de itens pedidos, a recência das compras e o valor da cesta de produtos, foi possível identificar subgrupos com características, necessidades ou comportamentos em comum. Assim, foi possível conhecer de forma mais aprofundada os hábitos de compra da base de dados e, com isso, direcionar estratégias de marketing, otimizar recursos e personalizar ofertas, garantindo que o cliente certo receba a mensagem certa no momento ideal. 
 
+Desempenho de Produtos e Localizações
+
+Por meio da base de dados referente aos produtos mais e menos vendidos, foi possível identificar o "top 10" mais adquiridos e o "top 10" menos comprados. Dessa forma, também foram verificados a correspôndencia da receita de cada um desses itens.
 
 
 
