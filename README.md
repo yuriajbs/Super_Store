@@ -31,7 +31,7 @@ Desempenho de Produtos e Regiões:
 
 ## 2. Premissas assumidas para a análise
 
-1.  A análise foi realizada com dados entre 11/02/2022 e 06/04/2022;
+1.  A análise foi realizada com dados entre xxx;
 2.  Modelo comercial tradicional (B2C) foi o modelo de negócio assumido;
 3.  As 3 principais visões do negócio foram: Retenção de Clientes, Segmentação de Clientes e Desempenho de Produtos e Regiões.
 
@@ -66,22 +66,22 @@ Cada visão é representada pelo seguinte conjunto de métricas.
       - Região que mais e menos vende;
       - Região que maior e menor receita.
       
-## 4. Top 3 Insights de dados
+## 4. Top 4 Insights de dados
 
-1.  A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dias sequenciais.
-2.  As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
-3.  As maiores variações no tempo de entrega, acontecem durante o clima ensolarado.
+1. O mês de setembro de 2014 e o mês de junho de 2015 foram os que apresentaram maior retenção média. A média de retenção global de 2014 e 2015 foi de 10%;
+2.  A faixa Fiéis corresponde a 27% dos consumidores e a 51,77% da receita total dos clientes;
+3.  Os 10  produtos mais vendidos correspondem a 17,53% da receita total;
+4.  As regiões Leste e Sul possuem uma receita proporcionalmente menor (25,85% e 13,47%) em relação ao número de pedidos ( 27,97% e 16,41%). Distoando das demais regiões;
+
 
 ## 5. O produto final do projeto
-Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado através desse link: https://currycompany-01.streamlit.app/
+Painel em PDF, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet ou offline mediante "download". O painel pode ser acessado através desse link: https://currycompany-01.streamlit.app/
 
 ## 6. Conclusão
-O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para
-o CEO.
-Da visão da Empresa, podemos concluir que o número de pedidos cresceu entre a semana 06 e a semana 13 do ano de 2022
+O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para os gestores. A partir da visão de Segmentação dos Clientes, verifica-se que caso  metade dos consumidores considerados Perdidos se torne Fiéis em Potencial  pode haver um aumento de cerca de R$ 118.653.157,43 na receita para a empresa.
 
 ## 7. Para o futuro
 
-1.  Reduzir o número de métricas.
+1.   Desenvolver novas métricas.
 2.  Criar novos filtros.
 3.  Adicionar novas visões de negócio.
