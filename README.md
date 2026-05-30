@@ -12,43 +12,25 @@ Para um diagnóstico preciso da situação das vendas da empresa, o time de gest
 
 Retenção de Clientes (Análise "Cohort" - Janela de 1 ano) :
       
-      1. Qual o mês do ano de 2014 e de 2015 apresentou maior retenção;
-      2. Qual mês apresentou maior retenção média em 2014 e em 2015;
-      3. Qual mês apresentou pior retenção média em 2014 e em 2015;
-      4. Qual foi a retenção média de cada ano.
+ 1. Qual o mês do ano de 2014 e de 2015 apresentou maior retenção;
+ 2. Qual mês apresentou maior retenção média em 2014 e em 2015;
+ 3. Qual mês apresentou pior retenção média em 2014 e em 2015;
+ 4. Qual foi a retenção média de cada ano.
 
 Segmentação de Clientes (Análise RFM):
 
-      1. Qual a porcentagem de clientes representa cada segmento;
-      2. Em que segmento está a maior faixa de receita;
-      3. Qual faixa de clientes é necessária atenção;
-      4. Quais são as categorias de clientes menos rentáveis.
+ 1. Qual a porcentagem de clientes representa cada segmento;
+ 2. Em que segmento está a maior faixa de receita;
+ 3. Qual faixa de clientes é necessária atenção;
+ 4. Quais são as categorias de clientes menos rentáveis.
 
+Desempenho de Produtos e Localizações:
 
+  1. Quais são os 10 produtos mais e menos vendidos;
+  2. Qual a porcentagem relativa de receita desses produtos em relação aos itens vendidos;
+  3. Qual região vende e tem maior receita;
+  4. Qual região vende menos e tem a pior receita.
 
-Retenção de Clientes:
-
-Mediante uma análise do tipo "cohort" foi possível acompanhar o grau de retenção dos clientes nos meses sucessivos de suas compras em um período de um ano. 
-
-Segmentação de Clientes:
-
-Atráves da estratificação dos consumidores, mediante definição do número de itens pedidos, a recência das compras e o valor da cesta de produtos, foi possível identificar subgrupos com características, necessidades ou comportamentos em comum. Assim, foi possível conhecer de forma mais aprofundada os hábitos de compra da base de dados e, com isso, direcionar estratégias de marketing, otimizar recursos e personalizar ofertas, garantindo que o cliente certo receba a mensagem certa no momento ideal. 
-
-Desempenho de Produtos e Localizações
-
-Por meio da base de dados referente aos produtos mais e menos vendidos, foi possível identificar o "top 10" mais adquiridos e o "top 10" menos comprados. Dessa forma, também foram verificados a correspôndencia da receita de cada um desses itens.
-
-
-
-1.  A quantidade de entregadores únicos.
-2.  A distância média dos resturantes e dos locais de entrega.
-3.  O tempo médio e o desvio padrão de entrega por cidade.
-4.  O tempo médio e o desvio padrão de entrega por cidade e tipo de pedido.
-5.  O tempo médio e o desvio padrão de entrega por cidade e tipo de tráfego.
-6.  O tempo médio de entrega durantes os Festivais.
-
-O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para
-o gestor.
 
 ## 2. Premissas assumidas para a análise
 
