@@ -75,7 +75,7 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 
 
 ## 5. O produto final do projeto
-Painel em PDF, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet ou offline mediante "download". O painel pode ser acessado através desse link: https://currycompany-01.streamlit.app/
+Painel em PDF, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet ou offline mediante "download". O painel pode ser acessado através desse link: https://github.com/yuriajbs/Super_Store.git
 
 ## 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para os gestores. A partir da visão de Segmentação dos Clientes, verifica-se que caso  metade dos consumidores considerados Perdidos se torne Fiéis em Potencial  pode haver um aumento de cerca de R$ 118.653.157,43 na receita para a empresa.
