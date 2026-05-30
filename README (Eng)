@@ -1,0 +1,95 @@
+# Curry_Company
+## 1. Business Problem
+
+SuperStore is a company with decades of history and is currently one of the largest supermarket chains in the country. However, in a highly competitive industry, challenges related to customer retention and sales strategy optimization are a constant reality. Given this, the company needs to maintain its leading position. Therefore, based on a comprehensive and detailed analysis of its database regarding customers, orders, store locations, and products, strategic decisions must be made to anticipate trends, reduce operational costs, and understand consumer behavior. All of these actions are essential for the organization's ongoing success.
+A supermarket's business model is based on high-volume sales of primarily essential products (food, hygiene, and cleaning) with low unit profit margins (generally between 3% and 6%). Consequently, it operates under a traditional commercial model (B2C), establishing a direct relationship between the company and the final consumer.
+For an accurate diagnosis of the company's sales performance, the management team defined three primary areas (views) along with their respective metrics:
+:
+
+Customer Retention (Cohort Analysis - 1 Year Window)
+
+1.  Which month in 2014 and 2015 showed the highest retention?
+2. Which month showed the highest average retention in 2014 and 2015?
+3.  Which month showed the lowest average retention in 2014 and 2015?
+4.  What was the average retention rate for each year?
+
+Customer Segmentation (RFM Analysis)
+
+1. What percentage of customers does each segment represent?
+2. Which segment generates the highest revenue bracket?
+3. Which customer segment requires attention?
+4. Which customer categories are the least profitable?
+
+
+Product and Regional Performance
+
+1.  What are the top 10 most and least sold products?
+2. What is the relative revenue percentage of these products compared to the total items sold?
+3. Which region sells the most and generates the highest revenue?
+4. Which region sells the least and generates the lowest revenue?
+
+The objective of this project is to create a set of charts and/or tables that display these metrics as effectively as possible for the manager.
+
+## 2.2. Assumptions Made for the Analysis
+
+1.  The analysis was conducted using data between [xxx];
+2.  A traditional commercial model (B2C) was the assumed business model;
+3.  The 3 main business views were: Customer Retention, Customer Segmentation, and Product and Regional Performance.
+
+## 3. Solution Strategy
+
+The strategic dashboard was developed using metrics that reflect the 3 primary views of the company's business model:
+
+1.  Customer Retention;
+2. Customer Segmentation;
+3.  Product and Regional Performance.
+
+
+Each view is represented by the following set of metrics:
+
+
+1.  Customer Retention View
+
+
+      - Months with the highest retention in 2014 and 2015;
+      - Highest monthly average retention in 2014 and 2015;
+      - Lowest monthly average retention in 2014 and 2015;
+      - Annual average retention.
+     
+2.  Customer Segmentation View
+
+      - Percentage of customers per segment;
+      - Segment with the highest revenue;
+      - Segment requiring attention;
+      - Least profitable segments.
+      
+3.  Product and Regional Performance View
+
+      - Top 10" most and least sold products;
+      - Relative percentage of these products compared to the rest;
+      - Region that sells the most and the least;
+      - Region with the highest and lowest revenue.
+
+
+## 4. Top 4 Data Insights
+
+
+1. September 2014 and June 2015 showed the highest average retention. The global average retention for 2014 and 2015 was 10%;
+2. The Loyal customer segment accounts for 27% of consumers and drives 51.77% of total customer revenue;
+3.  The top 10 most sold products account for 17.53% of total revenue;
+4. The East and South regions generate proportionally less revenue (25.85% and 13.47%) relative to their number of orders (27.97% and 16.41%), deviating from the patterns seen in other regions.
+
+
+## 5.Final Project Deliverable
+
+A PDF dashboard hosted in the cloud, accessible on any internet-connected device, or offline via download. The dashboard can be accessed through this link: https://currycompany-01.streamlit.app/
+
+## 6. Conclusion
+
+The goal of this project is to build a set of charts and/or tables that display these metrics in the most effective way for managers. From the Customer Segmentation view, it is evident that if half of the consumers classified as "Lost" were converted into "Potential Loyalists," the company could see a revenue increase of approximately R$ 118,653,157.43.
+
+## 7. Para o futuro
+
+1. Develop new metrics;
+2. Create new filters;
+3. Add new business views.
